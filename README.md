@@ -16,6 +16,4 @@ A simple and customizable password generator built to quickly create strong and 
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/yourusername/password-generator.git
-   cd password-generator
+  gh repo clone JamesShel10/Password_generator
